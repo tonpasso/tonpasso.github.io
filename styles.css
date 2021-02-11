@@ -17,3 +17,25 @@ hr {
     border-width: 3px;          
     width: 10%;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #19456b;
+  }
+
+#titulo {
+    font-family: fantasy;
+}
+
+#resumo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cidade {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
